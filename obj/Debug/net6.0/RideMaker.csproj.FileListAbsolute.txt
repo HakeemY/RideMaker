@@ -1,0 +1,15 @@
+/Users/mobilitytransitcorp1/Desktop/Coding_Dojo2/RideMaker/bin/Debug/net6.0/RideMaker
+/Users/mobilitytransitcorp1/Desktop/Coding_Dojo2/RideMaker/bin/Debug/net6.0/RideMaker.deps.json
+/Users/mobilitytransitcorp1/Desktop/Coding_Dojo2/RideMaker/bin/Debug/net6.0/RideMaker.runtimeconfig.json
+/Users/mobilitytransitcorp1/Desktop/Coding_Dojo2/RideMaker/bin/Debug/net6.0/RideMaker.dll
+/Users/mobilitytransitcorp1/Desktop/Coding_Dojo2/RideMaker/bin/Debug/net6.0/RideMaker.pdb
+/Users/mobilitytransitcorp1/Desktop/Coding_Dojo2/RideMaker/obj/Debug/net6.0/RideMaker.csproj.AssemblyReference.cache
+/Users/mobilitytransitcorp1/Desktop/Coding_Dojo2/RideMaker/obj/Debug/net6.0/RideMaker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mobilitytransitcorp1/Desktop/Coding_Dojo2/RideMaker/obj/Debug/net6.0/RideMaker.AssemblyInfoInputs.cache
+/Users/mobilitytransitcorp1/Desktop/Coding_Dojo2/RideMaker/obj/Debug/net6.0/RideMaker.AssemblyInfo.cs
+/Users/mobilitytransitcorp1/Desktop/Coding_Dojo2/RideMaker/obj/Debug/net6.0/RideMaker.csproj.CoreCompileInputs.cache
+/Users/mobilitytransitcorp1/Desktop/Coding_Dojo2/RideMaker/obj/Debug/net6.0/RideMaker.dll
+/Users/mobilitytransitcorp1/Desktop/Coding_Dojo2/RideMaker/obj/Debug/net6.0/refint/RideMaker.dll
+/Users/mobilitytransitcorp1/Desktop/Coding_Dojo2/RideMaker/obj/Debug/net6.0/RideMaker.pdb
+/Users/mobilitytransitcorp1/Desktop/Coding_Dojo2/RideMaker/obj/Debug/net6.0/RideMaker.genruntimeconfig.cache
+/Users/mobilitytransitcorp1/Desktop/Coding_Dojo2/RideMaker/obj/Debug/net6.0/ref/RideMaker.dll
